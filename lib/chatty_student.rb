@@ -7,7 +7,7 @@ class ChattyStudent
   
   def raise_hand 
     super 
-    
+    "Pick me!"
   end 
   
 end 
