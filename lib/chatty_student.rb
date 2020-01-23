@@ -9,6 +9,7 @@ class ChattyStudent < Student
     10.times do 
       super 
       puts "Pick me!"
+    end 
   end 
   
 end 
